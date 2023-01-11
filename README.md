@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matthew-Oduamafu
 - 👀 I’m interested in Project involving Python, Kotlin, C#, .Net Core
-- 🌱 I’m software engineer at Innorik Ghana LTD
+- 🌱 I’m software developer at Innorik Ghana LTD
 - 💞️ I’m looking to collaborate on Android App Dev and Web Using .Net Core
 - 📫 How to reach me ...
 
