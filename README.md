@@ -2,7 +2,7 @@
 👋 Hi, friend<br>👀 I’m interested in Project involving languages and frameworks like Python, Kotlin, C#, JavaScript, React, TypeScript, .Net Core<br>🌱 I’m software developer at Innorik Ghana LTD<br>💞️ I’m looking to collaborate on Android App Dev and Web Using .Net Core tools as well Javascript and its frameworks<br>
 
 
-## 🌐 Socials:
+## 🌐 Connect Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-oduamafu-42a1551a7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19597730) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Bra_Euler) 
 
 # 💻 Tech Stack:
