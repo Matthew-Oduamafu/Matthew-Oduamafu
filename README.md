@@ -1,5 +1,22 @@
 # 💫 About Me:
-👋 Hi, friend<br>👀 I’m interested in Project involving languages and frameworks like Python, Kotlin, C#, JavaScript, React, TypeScript, .Net Core<br>🌱 I’m software developer at Innorik Ghana LTD<br>💞️ I’m looking to collaborate on Android App Dev and Web Using .Net Core tools as well Javascript and its frameworks
+
+### Hi there! 👋
+
+I'm Matthew, a passionate developer with a love for coding and problem-solving.
+
+- 🔭 I'm currently working on various web development projects.
+- 🌱 I'm constantly learning and exploring new technologies.
+- 💡 I enjoy collaborating with others and contributing to open-source projects.
+- 💬 Ask me about C#, Python, Kotlin, JavaScript, HTML, CSS, and React, .NET.
+- ⚡ Fun fact: I love to sci-fi movies in my free time.
+
+Feel free to connect with me and explore my repositories. Let's build amazing things together!
+
+<!--🌐 [Personal Website](https://your-website-url.com) | 🐦 [Twitter](https://twitter.com/your-twitter-handle) | 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)-->
+
+
+
+<!--👋 Hi, friend<br>👀 I’m interested in Project involving languages and frameworks like Python, Kotlin, C#, JavaScript, React, TypeScript, .Net Core<br>🌱 I’m software developer at Innorik Ghana LTD<br>💞️ I’m looking to collaborate on Android App Dev and Web Using .Net Core tools as well Javascript and its frameworks-->
 
 
 ## 🌐 Socials:
