@@ -31,7 +31,7 @@ Feel free to connect with me and explore my repositories. Let's build amazing th
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Oduamafu&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Matthew-Oduamafu&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Matthew-Oduamafu&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Bra_Euler)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
@@ -41,7 +41,5 @@ Feel free to connect with me and explore my repositories. Let's build amazing th
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Matthew-Oduamafu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
