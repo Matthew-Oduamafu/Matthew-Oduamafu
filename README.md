@@ -8,7 +8,7 @@ I'm Matthew, a passionate developer with a love for coding and problem-solving.
 - 🌱 I'm constantly learning and exploring new technologies.
 - 💡 I enjoy collaborating with others and contributing to open-source projects.
 - 💬 Ask me about C#, Python, Kotlin, JavaScript, HTML, CSS, and React, .NET.
-- ⚡ Fun fact: I love to sci-fi movies in my free time.
+- ⚡ Fun fact: "Debugging: Being the detective in a crime movie where you are also the murderer." 🕵️‍♂️💻
 
 Feel free to connect with me and explore my repositories. Let's build amazing things together!
 
