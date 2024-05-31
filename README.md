@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bra_euler" target="blank"><img src="https://img.shields.io/twitter/follow/bra_euler?logo=twitter&style=for-the-badge" alt="bra_euler" /></a> </p>
 
-- 🔭 I’m currently working **as a Software engineer(Backend) with Hubtel Ltd**
+- 🔭 I’m currently working **as a Software engineer**
 
 - 👯 I’m looking to collaborate on **projects using asp.net core and kotlin for android app development**
 
