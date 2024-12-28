@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/bra_euler" target="blank"><img src="https://img.shields.io/twitter/follow/bra_euler?logo=twitter&style=for-the-badge" alt="bra_euler" /></a> </p>
 
-- 🔭 I’m currently working **as Software Engineer (C#, .NET, Java, Spring, Spring Boot)**
+- 🔭 I’m currently working **as Software Engineer (C#, .NET, Java, Spring, Spring Boot, Quarkus)**
 
-- 🌱 I’m currently learning **C++, TypeScript, Angular**
+- 🌱 I’m currently learning **Embedded C, C++, Programming Microcontrollers(STM32)**
 
 - 👯 I’m looking to collaborate **on projects using asp.net core, Spring, Spring Boot, Angular and kotlin for android app development**
 
