@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthew-oduamafu" alt="matthew-oduamafu" /></a> </p>
 
-- Pursuing MSc at Ashesi University with focus on AI-driven embedded systems, autonomous robotics, and precision agriculture. **I specialize in bridging software engineering and hardware innovation—working with STM32 microcontrollers, NVIDIA Jetson AI platforms, IoT sensor networks, and real-time control systems for agricultural automation.**
+- Pursuing MSc at Ashesi University with focus on AI-driven embedded systems, autonomous robotics, and precision agriculture. **I specialize in bridging software engineering and hardware innovation—working with STM32 microcontrollers, STM32 MPUs, IoT sensor networks, and real-time control systems for agricultural automation.**
 
 - 🌱 I’m currently learning **AI & precision agriculture**
 
